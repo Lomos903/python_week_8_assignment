@@ -1,0 +1,44 @@
+
+PERSONAL MINI-TOOLKIT PLAN
+
+PROJECT TITLE:
+Personal Mini-Toolkit
+
+TOOL 1: SIMPLE CALCULATOR
+This tool allows users to add, subtract, multiply and divide two numbers.
+Concepts: Variables, input, calculations and conditionals.
+
+TOOL 2: TO-DO LIST
+This tool allows users to add, view and remove tasks.
+Concepts: Lists, loops and conditionals.
+
+TOOL 3: EVEN OR ODD CHECKER
+This tool checks whether a number is even or odd.
+Concepts: Variables, input and if/else statements.
+
+TOOL 4: MULTIPLICATION TABLE
+This tool generates a multiplication table from 1 to 10.
+Concepts: Loops and f-strings.
+
+EXACT MENU TEXT:
+
+WELCOME TO MY PERSONAL MINI-TOOLKIT!
+
+1. Simple Calculator
+2. To-Do List
+3. Even or Odd Checker
+4. Number Table Generator
+5. Quit
+
+Enter your choice (1-5):
+
+PROGRAMMING CONCEPTS:
+
+1. Variables store information.
+2. Input collects information from users.
+3. Output displays results.
+4. Conditionals make decisions.
+5. Loops repeat instructions.
+6. Lists store and manage tasks.
+7. F-strings display friendly messages.
+8. Comments explain the code.
